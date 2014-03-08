@@ -1,0 +1,1 @@
+make ios application that has the same functions as a scientific calculator
